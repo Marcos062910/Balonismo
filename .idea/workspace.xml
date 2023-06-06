@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5dc8c0d-d368-42c7-b39d-12fc34d6476a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Balonismo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Balao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piloto.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5dc8c0d-d368-42c7-b39d-12fc34d6476a" name="Changes" comment="balonismo balão" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,8 +43,16 @@
       <option name="presentableId" value="Default" />
       <updated>1685616582251</updated>
       <workItem from="1685616586198" duration="1306000" />
-      <workItem from="1686046753693" duration="2375000" />
+      <workItem from="1686046753693" duration="2682000" />
     </task>
+    <task id="LOCAL-00001" summary="balonismo balão">
+      <created>1686050425508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686050425508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +68,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="balonismo balão" />
+    <option name="LAST_COMMIT_MESSAGE" value="balonismo balão" />
   </component>
 </project>
