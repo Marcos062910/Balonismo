@@ -6,6 +6,11 @@ public class Balao {
     String tipo;
     int capacidade;
     double altura;
+    String porte;
+    double peso;
 
+    //
+    public String voar() {return "voando";
 
+    }
 }
